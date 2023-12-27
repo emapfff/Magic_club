@@ -1,0 +1,3 @@
+C:/Magic club/cmake-build-debug/CMakeFiles/Magic_club.dir
+C:/Magic club/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Magic club/cmake-build-debug/CMakeFiles/rebuild_cache.dir
